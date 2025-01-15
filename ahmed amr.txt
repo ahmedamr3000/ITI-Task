@@ -1,1 +1,48 @@
 ahmed amr 
+
+
+
+
+ task 1  -----------------------------
+
+
+
+1- git is a tool help you to track changes in files 
+
+2- fasle    git is just a tool  git hup is a patform to hosting projects 
+
+3- git --version 
+
+
+4- --global 
+
+5-  git config user.email ahmedamro3000@gmail.com
+
+6-  git add *
+
+7-  git init
+
+
+8- false 
+
+9 - git commit
+
+10- git commit -m ahmedamro3000@gmail.com
+
+11- git log 
+
+12-  A separate version of the main repository
+
+
+
+13-  git branch ahmedamro3000@gmail.com
+
+
+14- git switch ahmedamro3000@gmail.com
+
+
+15-  git merge ahmedamro3000@gmail.com
+
+
+
+
